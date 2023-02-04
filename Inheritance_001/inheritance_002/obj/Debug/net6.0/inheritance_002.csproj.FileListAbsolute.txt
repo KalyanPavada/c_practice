@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\bin\Debug\net6.0\inheritance_002.exe
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\bin\Debug\net6.0\inheritance_002.deps.json
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\bin\Debug\net6.0\inheritance_002.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\bin\Debug\net6.0\inheritance_002.dll
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\bin\Debug\net6.0\inheritance_002.pdb
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\inheritance_002.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\inheritance_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\inheritance_002.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\inheritance_002.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\inheritance_002.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\inheritance_002.dll
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\refint\inheritance_002.dll
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\inheritance_002.pdb
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\inheritance_002.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Inheritance_001\inheritance_002\obj\Debug\net6.0\ref\inheritance_002.dll

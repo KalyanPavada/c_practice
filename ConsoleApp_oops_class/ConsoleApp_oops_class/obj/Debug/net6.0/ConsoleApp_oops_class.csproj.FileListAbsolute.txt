@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\bin\Debug\net6.0\ConsoleApp_oops_class.exe
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\bin\Debug\net6.0\ConsoleApp_oops_class.deps.json
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\bin\Debug\net6.0\ConsoleApp_oops_class.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\bin\Debug\net6.0\ConsoleApp_oops_class.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\bin\Debug\net6.0\ConsoleApp_oops_class.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ConsoleApp_oops_class.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ConsoleApp_oops_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ConsoleApp_oops_class.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ConsoleApp_oops_class.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ConsoleApp_oops_class.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ConsoleApp_oops_class.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\refint\ConsoleApp_oops_class.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ConsoleApp_oops_class.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ConsoleApp_oops_class.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\ConsoleApp_oops_class\obj\Debug\net6.0\ref\ConsoleApp_oops_class.dll

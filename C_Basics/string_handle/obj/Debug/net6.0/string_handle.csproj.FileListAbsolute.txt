@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\bin\Debug\net6.0\string_handle.exe
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\bin\Debug\net6.0\string_handle.deps.json
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\bin\Debug\net6.0\string_handle.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\bin\Debug\net6.0\string_handle.dll
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\bin\Debug\net6.0\string_handle.pdb
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\string_handle.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\string_handle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\string_handle.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\string_handle.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\string_handle.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\string_handle.dll
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\refint\string_handle.dll
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\string_handle.pdb
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\string_handle.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C_Basics\string_handle\obj\Debug\net6.0\ref\string_handle.dll

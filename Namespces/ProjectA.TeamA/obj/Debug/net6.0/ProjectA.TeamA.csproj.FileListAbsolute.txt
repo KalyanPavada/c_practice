@@ -1,0 +1,5 @@
+C:\Users\LENOVO\source\repos\Namespces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Namespces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Namespces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Namespces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Namespces\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.csproj.CoreCompileInputs.cache

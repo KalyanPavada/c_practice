@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\bin\Debug\net6.0\ConsoleApp_practice001.exe
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\bin\Debug\net6.0\ConsoleApp_practice001.deps.json
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\bin\Debug\net6.0\ConsoleApp_practice001.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\bin\Debug\net6.0\ConsoleApp_practice001.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\bin\Debug\net6.0\ConsoleApp_practice001.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ConsoleApp_practice001.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ConsoleApp_practice001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ConsoleApp_practice001.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ConsoleApp_practice001.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ConsoleApp_practice001.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ConsoleApp_practice001.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\refint\ConsoleApp_practice001.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ConsoleApp_practice001.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ConsoleApp_practice001.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_practice001\obj\Debug\net6.0\ref\ConsoleApp_practice001.dll

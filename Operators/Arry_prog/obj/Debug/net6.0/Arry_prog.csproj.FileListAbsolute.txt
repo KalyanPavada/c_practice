@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\bin\Debug\net6.0\Arry_prog.exe
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\bin\Debug\net6.0\Arry_prog.deps.json
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\bin\Debug\net6.0\Arry_prog.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\bin\Debug\net6.0\Arry_prog.dll
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\bin\Debug\net6.0\Arry_prog.pdb
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\Arry_prog.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\Arry_prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\Arry_prog.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\Arry_prog.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\Arry_prog.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\Arry_prog.dll
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\refint\Arry_prog.dll
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\Arry_prog.pdb
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\Arry_prog.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Operators\Arry_prog\obj\Debug\net6.0\ref\Arry_prog.dll

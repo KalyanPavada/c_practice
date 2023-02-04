@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\bin\Debug\net6.0\Static_Method.exe
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\bin\Debug\net6.0\Static_Method.deps.json
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\bin\Debug\net6.0\Static_Method.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\bin\Debug\net6.0\Static_Method.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\bin\Debug\net6.0\Static_Method.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\Static_Method.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\Static_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\Static_Method.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\Static_Method.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\Static_Method.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\Static_Method.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\refint\Static_Method.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\Static_Method.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\Static_Method.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_oops_class\Static_Method\obj\Debug\net6.0\ref\Static_Method.dll

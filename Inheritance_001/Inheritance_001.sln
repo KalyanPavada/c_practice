@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_001", "Inheritance_001\Inheritance_001.csproj", "{90C7952C-FF91-4124-87DD-DC0F85551093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance_002", "inheritance_002\inheritance_002.csproj", "{009E012C-AD7E-4842-9D65-79911C25AEC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90C7952C-FF91-4124-87DD-DC0F85551093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C7952C-FF91-4124-87DD-DC0F85551093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C7952C-FF91-4124-87DD-DC0F85551093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C7952C-FF91-4124-87DD-DC0F85551093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009E012C-AD7E-4842-9D65-79911C25AEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009E012C-AD7E-4842-9D65-79911C25AEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009E012C-AD7E-4842-9D65-79911C25AEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009E012C-AD7E-4842-9D65-79911C25AEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4923E6AB-AEC0-4550-B3B5-DBC004D86A23}
+	EndGlobalSection
+EndGlobal

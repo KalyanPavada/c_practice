@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\bin\Debug\net6.0-windows\Accont_check.exe
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\bin\Debug\net6.0-windows\Accont_check.deps.json
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\bin\Debug\net6.0-windows\Accont_check.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\bin\Debug\net6.0-windows\Accont_check.dll
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\bin\Debug\net6.0-windows\Accont_check.pdb
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.dll
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\refint\Accont_check.dll
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.pdb
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\ref\Accont_check.dll
+C:\Users\LENOVO\source\repos\Override_001\Accont_check\obj\Debug\net6.0-windows\Accont_check.Account_Form1.resources

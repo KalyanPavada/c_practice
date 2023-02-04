@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\bin\Debug\net6.0\Conditonal_state.exe
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\bin\Debug\net6.0\Conditonal_state.deps.json
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\bin\Debug\net6.0\Conditonal_state.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\bin\Debug\net6.0\Conditonal_state.dll
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\bin\Debug\net6.0\Conditonal_state.pdb
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\Conditonal_state.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\Conditonal_state.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\Conditonal_state.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\Conditonal_state.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\Conditonal_state.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\Conditonal_state.dll
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\refint\Conditonal_state.dll
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\Conditonal_state.pdb
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\Conditonal_state.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Operators\Conditonal_state\obj\Debug\net6.0\ref\Conditonal_state.dll

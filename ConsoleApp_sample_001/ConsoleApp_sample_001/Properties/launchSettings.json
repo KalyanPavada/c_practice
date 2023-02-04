@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp_sample_001": {
+      "commandName": "Project",
+      "commandLineArgs": "welcom kalyan you clearly learn \r\n"
+    }
+  }
+}

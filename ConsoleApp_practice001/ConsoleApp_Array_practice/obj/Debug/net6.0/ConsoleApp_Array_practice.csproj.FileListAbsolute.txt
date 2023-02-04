@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\bin\Debug\net6.0\ConsoleApp_Array_practice.exe
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\bin\Debug\net6.0\ConsoleApp_Array_practice.deps.json
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\bin\Debug\net6.0\ConsoleApp_Array_practice.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\bin\Debug\net6.0\ConsoleApp_Array_practice.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\bin\Debug\net6.0\ConsoleApp_Array_practice.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ConsoleApp_Array_practice.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ConsoleApp_Array_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ConsoleApp_Array_practice.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ConsoleApp_Array_practice.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ConsoleApp_Array_practice.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ConsoleApp_Array_practice.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\refint\ConsoleApp_Array_practice.dll
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ConsoleApp_Array_practice.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ConsoleApp_Array_practice.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ConsoleApp_practice001\ConsoleApp_Array_practice\obj\Debug\net6.0\ref\ConsoleApp_Array_practice.dll

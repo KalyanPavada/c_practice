@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\bin\Debug\net6.0\C_Basics.exe
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\bin\Debug\net6.0\C_Basics.deps.json
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\bin\Debug\net6.0\C_Basics.runtimeconfig.json
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\bin\Debug\net6.0\C_Basics.dll
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\bin\Debug\net6.0\C_Basics.pdb
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\C_Basics.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\C_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\C_Basics.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\C_Basics.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\C_Basics.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\C_Basics.dll
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\refint\C_Basics.dll
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\C_Basics.pdb
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\C_Basics.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\C_Basics\C_Basics\obj\Debug\net6.0\ref\C_Basics.dll
