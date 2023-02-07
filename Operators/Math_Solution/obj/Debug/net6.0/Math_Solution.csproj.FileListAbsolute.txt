@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\bin\Debug\net6.0\Math_Solution.exe
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\bin\Debug\net6.0\Math_Solution.deps.json
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\bin\Debug\net6.0\Math_Solution.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\bin\Debug\net6.0\Math_Solution.dll
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\bin\Debug\net6.0\Math_Solution.pdb
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\Math_Solution.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\Math_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\Math_Solution.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\Math_Solution.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\Math_Solution.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\Math_Solution.dll
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\refint\Math_Solution.dll
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\Math_Solution.pdb
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\Math_Solution.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Operators\Math_Solution\obj\Debug\net6.0\ref\Math_Solution.dll

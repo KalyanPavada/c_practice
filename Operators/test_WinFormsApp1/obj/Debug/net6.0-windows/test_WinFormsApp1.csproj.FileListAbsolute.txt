@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\bin\Debug\net6.0-windows\test_WinFormsApp1.exe
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\bin\Debug\net6.0-windows\test_WinFormsApp1.deps.json
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\bin\Debug\net6.0-windows\test_WinFormsApp1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\bin\Debug\net6.0-windows\test_WinFormsApp1.dll
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\bin\Debug\net6.0-windows\test_WinFormsApp1.pdb
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.Form1.resources
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.dll
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\refint\test_WinFormsApp1.dll
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.pdb
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\test_WinFormsApp1.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Operators\test_WinFormsApp1\obj\Debug\net6.0-windows\ref\test_WinFormsApp1.dll
