@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\bin\Debug\net6.0\Icompare.exe
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\bin\Debug\net6.0\Icompare.deps.json
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\bin\Debug\net6.0\Icompare.runtimeconfig.json
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\bin\Debug\net6.0\Icompare.dll
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\bin\Debug\net6.0\Icompare.pdb
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\Icompare.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\Icompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\Icompare.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\Icompare.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\Icompare.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\Icompare.dll
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\refint\Icompare.dll
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\Icompare.pdb
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\Icompare.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\CollectionsDemo\Icompare\obj\Debug\net6.0\ref\Icompare.dll

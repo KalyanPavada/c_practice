@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\bin\Debug\net6.0\Multi_delegate.exe
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\bin\Debug\net6.0\Multi_delegate.deps.json
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\bin\Debug\net6.0\Multi_delegate.runtimeconfig.json
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\bin\Debug\net6.0\Multi_delegate.dll
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\bin\Debug\net6.0\Multi_delegate.pdb
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\Multi_delegate.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\Multi_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\Multi_delegate.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\Multi_delegate.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\Multi_delegate.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\Multi_delegate.dll
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\refint\Multi_delegate.dll
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\Multi_delegate.pdb
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\Multi_delegate.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\kudu_venk_struck\Multi_delegate\obj\Debug\net6.0\ref\Multi_delegate.dll

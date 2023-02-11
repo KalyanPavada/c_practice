@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\bin\Debug\net6.0\kudu_venk_struck.exe
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\bin\Debug\net6.0\kudu_venk_struck.deps.json
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\bin\Debug\net6.0\kudu_venk_struck.runtimeconfig.json
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\bin\Debug\net6.0\kudu_venk_struck.dll
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\bin\Debug\net6.0\kudu_venk_struck.pdb
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\kudu_venk_struck.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\kudu_venk_struck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\kudu_venk_struck.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\kudu_venk_struck.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\kudu_venk_struck.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\kudu_venk_struck.dll
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\refint\kudu_venk_struck.dll
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\kudu_venk_struck.pdb
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\kudu_venk_struck.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\kudu_venk_struck\kudu_venk_struck\obj\Debug\net6.0\ref\kudu_venk_struck.dll

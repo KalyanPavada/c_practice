@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\Interface_polymorphism.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\Interface_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\Interface_polymorphism.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\Interface_polymorphism.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\Interface_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\bin\Debug\net6.0\Interface_polymorphism.exe
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\bin\Debug\net6.0\Interface_polymorphism.deps.json
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\bin\Debug\net6.0\Interface_polymorphism.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\bin\Debug\net6.0\Interface_polymorphism.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\bin\Debug\net6.0\Interface_polymorphism.pdb
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\Interface_polymorphism.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\refint\Interface_polymorphism.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\Interface_polymorphism.pdb
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\Interface_polymorphism.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Interface_polymorphism\obj\Debug\net6.0\ref\Interface_polymorphism.dll

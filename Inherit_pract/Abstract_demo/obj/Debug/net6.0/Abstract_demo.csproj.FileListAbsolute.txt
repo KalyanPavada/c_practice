@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\bin\Debug\net6.0\Abstract_demo.exe
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\bin\Debug\net6.0\Abstract_demo.deps.json
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\bin\Debug\net6.0\Abstract_demo.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\bin\Debug\net6.0\Abstract_demo.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\bin\Debug\net6.0\Abstract_demo.pdb
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\Abstract_demo.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\Abstract_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\Abstract_demo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\Abstract_demo.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\Abstract_demo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\Abstract_demo.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\refint\Abstract_demo.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\Abstract_demo.pdb
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\Abstract_demo.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Abstract_demo\obj\Debug\net6.0\ref\Abstract_demo.dll

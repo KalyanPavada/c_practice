@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\bin\Debug\net6.0\Inherit_pract.exe
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\bin\Debug\net6.0\Inherit_pract.deps.json
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\bin\Debug\net6.0\Inherit_pract.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\bin\Debug\net6.0\Inherit_pract.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\bin\Debug\net6.0\Inherit_pract.pdb
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\Inherit_pract.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\Inherit_pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\Inherit_pract.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\Inherit_pract.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\Inherit_pract.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\Inherit_pract.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\refint\Inherit_pract.dll
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\Inherit_pract.pdb
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\Inherit_pract.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Inherit_pract\Inherit_pract\obj\Debug\net6.0\ref\Inherit_pract.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Abstract_demo": {
+      "commandName": "Project",
+      "commandLineArgs": "s"
+    }
+  }
+}
